@@ -6,6 +6,6 @@
 
 <div class="text-center">
     <h1 class="display-4">Primera pagina web</h1>
-    <p>La hora en el servidor es: @DateTime.Now.AddYears(-1).Year</p>
+    <p>La hora en el servidor es: @DateTime.Now.AddYear(-1).Year</p>
     <h2>@DateTime.Now</h2>
 </div>
